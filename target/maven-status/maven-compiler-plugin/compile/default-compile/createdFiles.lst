@@ -1,0 +1,5 @@
+com\mycompany\dao\Conexion.class
+com\mycompany\Examen\PrintUtilities.class
+com\mycompany\dao\ClaseDao.class
+com\mycompany\dao\Clase.class
+com\mycompany\Examen\Examen.class
